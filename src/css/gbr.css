@@ -1,0 +1,14 @@
+.gambar{
+    width: 75%;
+}
+.padding{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.pad{
+    color: white;
+    font-size: 40px;
+}
+.left{
+    text-align: left;
+}
